@@ -1,0 +1,14 @@
+{
+    "name": "example-test",
+    "description": "A php skills test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hidden",
+            "email": "hidden@test.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "~5.0"
+    }
+}
